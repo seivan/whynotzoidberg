@@ -1,0 +1,7 @@
+{
+    "host": "ds033956.mlab.com",
+    "user": "zoidberg",
+    "password": "futurama",
+    "database": "heroku_6pxt0cxh",
+    "port": 33956
+}

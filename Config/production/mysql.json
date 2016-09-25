@@ -1,0 +1,9 @@
+{
+    "host": "onnjomlc4vqc55fw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "user": "fof0a25hhfkegtbc",
+    "password": "g4da6wgnq9aijfuk",
+    "database": "wsjttgjwpj2vd26c",
+    "port": 3306,
+    "flag": 0,
+    "encoding": "utf8mb4"
+}

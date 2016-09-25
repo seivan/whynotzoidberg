@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "whynotzoidberg",
+    "port": 3306,
+    "flag": 0,
+    "encoding": "utf8mb4"
+}
